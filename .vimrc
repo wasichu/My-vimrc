@@ -4,6 +4,9 @@ set nocompatible
 " Line numbers are nice
 set number
 
+" Show the column number as well
+set ruler
+
 " Allow backspace in insert mode
 set backspace=indent,eol,start
 
